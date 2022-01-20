@@ -1,0 +1,31 @@
+.header{
+    background-color: goldenrod;
+    text-align: center;
+    background-image: url(image.jpg);
+    background-size: cover;
+    
+}
+
+.nav{
+    background-color: pink;
+    color: mediumblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-size: x-large;
+    
+}
+h1{
+    font-size: x-large;
+    margin: 50px;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.content p{
+    text-align: center;
+    
+}
